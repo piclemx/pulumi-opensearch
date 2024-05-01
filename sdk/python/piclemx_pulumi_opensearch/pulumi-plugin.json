@@ -1,0 +1,5 @@
+{
+  "resource": true,
+  "name": "opensearch",
+  "server": "github://api.github.com/piclemx/pulumi-opensearch"
+}
